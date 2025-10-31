@@ -1,0 +1,12 @@
+## Python packages that are needed
+ pandas
+ numpy
+ scikit-learn
+ matplotlib
+ seaborn
+ streamlit
+ joblib
+ xgboost
+
+## to run
+  pip install -r requirements.txt
